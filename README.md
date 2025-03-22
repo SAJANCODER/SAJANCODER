@@ -45,5 +45,5 @@ My Prestigious  under-going project,
 ---
 
 <p align="center">
-  Made by <strong>Sajan Coder</strong>
+  Made by ©<strong>SAJAN D</strong>
 </p>
