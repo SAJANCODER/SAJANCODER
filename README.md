@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer-Full%20Stack-blue" alt="Python">
-  <img src="https://img.shields.io/badge/Language-Python%20%7C%20JavaScript%20%7C%20Java-green" alt="Machine Learnig Development">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen" alt="Open Source Contributor">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge" alt="Open Source Contributor">
 </p>
 
 <h1 align="center">👋 Hi I'm SAJAN D</h1>
@@ -27,7 +27,7 @@ My Prestigious  under-going project,
    ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
    ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**Chek out all my REPO**
+**[Chek out all my REPO](https://github.com/SAJANCODER?tab=repositories)**
 ---
 
 ## 📫 Let's Connect
