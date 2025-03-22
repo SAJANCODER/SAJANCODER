@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer-Full%20Stack-blue" alt="Full Stack Development">
+  <img src="https://img.shields.io/badge/Developer-Full%20Stack-blue" alt="Python">
   <img src="https://img.shields.io/badge/Language-Python%20%7C%20JavaScript%20%7C%20Java-green" alt="Machine Learnig Development">
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen" alt="Open Source Contributor">
 </p>
