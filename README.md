@@ -1,49 +1,87 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge" alt="Open Source Contributor">
-</p>
-
-<h1 align="center">👋 Hi I'm SAJAN D</h1>
+# 🌌 [SAJAN DARLING JOSEPH](https://github.com/SAJANCODER)
+### ML Engineer • Researcher 
 
 <p align="center">
-  <strong>Python Develper| Java Developer | AI Enthusiast | Open Source Contributor</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70D7FF&center=true&vCenter=true&width=600&lines=Building+Autonomous+AI+Agents;Founder+of+VIRLITH;Probabilistic+Forensics+Expert;Machine+Learning+Researcher" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm passionate about building innovative solutions and contributing to open-source projects. Here, you'll find a collection of my work, experiments and collaborations.
+  <a href="https://github.com/SAJANCODER">
+    <img src="https://github-readme-stats.vercel.app/api?username=SAJANCODER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 🧬 Professional Identity
+I am a **Machine Learning Engineer** and **Researcher** specializing in **Autonomous Agentic Workflows** and **Graph Neural Networks (GNNs)**. As the founder of **VIRLITH**, I architect high-performance AI systems designed for local inference and industrial optimization.
 
-My Prestigious  under-going project,
+*   🎓 **Education:** B.Tech in Computer Science and Business Systems
+*   🔭 **Focus:** Agentic RAG, Real-time Multimodal Proctoring, and AI Forensics.
+*   ⚡ **Motto:** Code once, automate forever.
 
-1. **[Indian Sign Language (ISL)](https://github.com/SAJANCODER/signs)**  
-   A project focused on improving **Indian Sign Language (ISL)** recognition by enhancing the existing model. Key developments include **background removal**, **hand tracing**, and **focusing on hand signs** for more accurate recognition.  
-   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-   ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-   ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-**[Chek out all my REPO](https://github.com/SAJANCODER?tab=repositories)**
 ---
 
-## 📫 Let's Connect
+## 🚀 Active Ecosystem (Latest Projects)
 
+### 👻 GhostTrace AI
+**Probabilistic AI Forensics Engine**  
+An advanced framework for tracing synthetic content back to its origin through probabilistic mapping.  
+`Python` `PyTorch` `Scikit-Learn` `Probabilistic-ML`
+
+### 🎙️ VocalAudit
+**Real-time Multimodal Proctoring for Medical Procedures**  
+A high-integrity audit system ensuring compliance and safety in healthcare environments using real-time audio-visual analysis.  
+`OpenCV` `FastAPI` `MediaPipe` `Healthcare-AI`
+
+### 🤖 QUBREA
+**Telegram-based Git Intelligence Bot**  
+A live autonomous agent that bridges the gap between Git repositories and instant messaging for real-time repository intelligence.  
+`Node.js` `Telegram-API` `Git-Intelligence`
+
+### 🏗️ Carbon-Twin
+**Industrial Optimization Platform**  
+Developing digital twins to simulate industrial processes for carbon footprint reduction and efficiency scaling.  
+`Graph-Neural-Networks` `Optimization-Algorithms` `Digital-Twin`
+
+### 🤟 Indian Sign Language (ISL) Recognition
+**Sign Language to Text Pipeline**  
+Utilizing GNNs and hand-tracing for high-accuracy feature extraction in real-time sign recognition.  
+`TensorFlow` `GNN` `MediaPipe` `Python`
+
+---
+
+## 🛠️ Technical Arsenal
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `Java` `C++` `JavaScript` `SQL` |
+| **AI/ML** | `PyTorch` `TensorFlow` `Keras` `Scikit-Learn` `GNNs` |
+| **Web/Tools** | `React.js` `FastAPI` `Node.js` `Figma` `Docker` |
+| **Cloud/Infra** | `Azure` `Google Cloud` `GitHub Actions` `NVIDIA CUDA` |
+
+---
+
+## 📊 Performance Matrix
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAJANCODER&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📬 Global Uplink
 <p align="center">
   <a href="https://www.linkedin.com/in/sajand/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
   <a href="mailto:sajandevep@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/SAJANCODER">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
----
-
 <p align="center">
-  Made by ©<strong>SAJAN D</strong>
+  <sub>© 2026 <strong>SAJAN DARLING JOSEPH</strong> • Powered by <strong>VIRLITH</strong></sub>
 </p>
