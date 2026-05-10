@@ -1,87 +1,76 @@
-# 🌌 [SAJAN DARLING JOSEPH](https://github.com/SAJANCODER)
-### ML Engineer • Researcher 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70D7FF&center=true&vCenter=true&width=600&lines=Building+Autonomous+AI+Agents;Founder+of+VIRLITH;Probabilistic+Forensics+Expert;Machine+Learning+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70D7FF&center=true&vCenter=true&width=700&height=50&lines=ARCHITECTING+AUTONOMOUS+SYSTEMS;ENGINEERING+PROBABILISTIC+FORENSICS;FOUNDING+THE+FUTURE+AT+VIRLITH" alt="Header" />
 </p>
 
+<h1 align="center">SAJAN DARLING JOSEPH</h1>
+<p align="center"><strong>Machine Learning Engineer • Researcher • Founder</strong></p>
+
 <p align="center">
-  <a href="https://github.com/SAJANCODER">
-    <img src="https://github-readme-stats.vercel.app/api?username=SAJANCODER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SAJANCODER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70D7FF&text_color=FFFFFF" alt="Stats" />
 </p>
 
 ---
 
-## 🧬 Professional Identity
-I am a **Machine Learning Engineer** and **Researcher** specializing in **Autonomous Agentic Workflows** and **Graph Neural Networks (GNNs)**. As the founder of **VIRLITH**, I architect high-performance AI systems designed for local inference and industrial optimization.
-
-*   🎓 **Education:** B.Tech in Computer Science and Business Systems
-*   🔭 **Focus:** Agentic RAG, Real-time Multimodal Proctoring, and AI Forensics.
-*   ⚡ **Motto:** Code once, automate forever.
+### The Hook
+> **The future is no longer a destination we wait for; it is a system we architect.** 
+> I specialize in bridging the gap between static code and autonomous intelligence, focusing on high-integrity agentic workflows and industrial-scale optimization.
 
 ---
 
-## 🚀 Active Ecosystem (Latest Projects)
+### Priority Intelligence (Active Projects)
 
-### 👻 GhostTrace AI
-**Probabilistic AI Forensics Engine**  
-An advanced framework for tracing synthetic content back to its origin through probabilistic mapping.  
-`Python` `PyTorch` `Scikit-Learn` `Probabilistic-ML`
+**GhostTrace AI | Probabilistic Forensics**  
+Directing the development of a forensic engine designed to identify and trace synthetic content through probabilistic mapping.  
+`PyTorch` `Scikit-Learn` `Probabilistic-ML`
 
-### 🎙️ VocalAudit
-**Real-time Multimodal Proctoring for Medical Procedures**  
-A high-integrity audit system ensuring compliance and safety in healthcare environments using real-time audio-visual analysis.  
-`OpenCV` `FastAPI` `MediaPipe` `Healthcare-AI`
+**VocalAudit | Multimodal Medical Proctoring**  
+Architecting high-integrity audit systems for healthcare, ensuring procedural compliance via real-time audio-visual analysis.  
+`FastAPI` `OpenCV` `MediaPipe`
 
-### 🤖 QUBREA
-**Telegram-based Git Intelligence Bot**  
-A live autonomous agent that bridges the gap between Git repositories and instant messaging for real-time repository intelligence.  
-`Node.js` `Telegram-API` `Git-Intelligence`
+**QUBREA | Git Intelligence Agent**  
+Deploying an autonomous bridge between Git repositories and real-time intelligence feeds.  
+`Node.js` `Telegram-API` `Autonomous-Agents`
 
-### 🏗️ Carbon-Twin
-**Industrial Optimization Platform**  
-Developing digital twins to simulate industrial processes for carbon footprint reduction and efficiency scaling.  
-`Graph-Neural-Networks` `Optimization-Algorithms` `Digital-Twin`
+**Carbon-Twin | Industrial Optimization**  
+Leveraging Graph Neural Networks to create digital twins for large-scale carbon reduction and efficiency modeling.  
+`GNNs` `Optimization` `Digital-Twin`
 
-### 🤟 Indian Sign Language (ISL) Recognition
-**Sign Language to Text Pipeline**  
-Utilizing GNNs and hand-tracing for high-accuracy feature extraction in real-time sign recognition.  
-`TensorFlow` `GNN` `MediaPipe` `Python`
+**ISL Recognition | Neural Sign Language Pipeline**  
+Refining human-computer interaction through GNN-based gesture extraction and real-time sign-to-text translation.  
+`TensorFlow` `GNNs` `Computer-Vision`
 
 ---
 
-## 🛠️ Technical Arsenal
+### System Capabilities (Technical Arsenal)
 
-| Category | Tools & Technologies |
+| Domain | Frameworks & Languages |
 | :--- | :--- |
-| **Languages** | `Python` `Java` `C++` `JavaScript` `SQL` |
-| **AI/ML** | `PyTorch` `TensorFlow` `Keras` `Scikit-Learn` `GNNs` |
-| **Web/Tools** | `React.js` `FastAPI` `Node.js` `Figma` `Docker` |
-| **Cloud/Infra** | `Azure` `Google Cloud` `GitHub Actions` `NVIDIA CUDA` |
+| **Neural Architecture** | `PyTorch` `TensorFlow` `GNNs` `Scikit-Learn` |
+| **Development** | `Python` `Java` `JavaScript` `C++` |
+| **Infrastructure** | `NVIDIA CUDA` `Azure` `Google Cloud` `Docker` |
+| **Interface** | `React.js` `FastAPI` `Figma (UI/UX)` |
 
 ---
 
-## 📊 Performance Matrix
+### Live Feed (System Activity)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAJANCODER&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=A9B1D6&center=true&vCenter=true&width=600&height=100&lines=Initializing+GhostTrace+Core...;Analyzing+VocalAudit+latency...;Optimizing+Carbon-Twin+GNN+weights...;QUBREA+Agent+Status:+Online;All+systems+nominal." alt="Scroll Animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAJANCODER&theme=tokyonight&hide_border=true&background=0D1117&stroke=70D7FF&ring=70D7FF" alt="Activity Streak" />
 </p>
 
 ---
 
-## 📬 Global Uplink
+### Global Connection Points
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/sajand/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sajandevep@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/SAJANCODER">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://www.linkedin.com/in/sajand/"><strong>LINKEDIN</strong></a> • 
+  <a href="mailto:sajandevep@gmail.com"><strong>EMAIL</strong></a> • 
+  <a href="https://github.com/SAJANCODER"><strong>GITHUB</strong></a>
 </p>
 
 <p align="center">
-  <sub>© 2026 <strong>SAJAN DARLING JOSEPH</strong> • Powered by <strong>VIRLITH</strong></sub>
+  <sub>© 2026 SAJAN DARLING JOSEPH • VIRLITH SYSTEMS</sub>
 </p>
