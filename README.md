@@ -5,10 +5,6 @@
 <h1 align="center">SAJAN D</h1>
 <p align="center"><strong>Machine Learning Engineer • Researcher • Founder</strong></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAJANCODER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70D7FF&text_color=FFFFFF" alt="Stats" />
-</p>
-
 ---
 
 ### The Idealogy
@@ -60,8 +56,8 @@ Refining human-computer interaction through GNN-based gesture extraction and rea
 <p align="center">
   <a href="https://www.linkedin.com/in/sajand-ai/"><strong>LINKEDIN</strong></a> • 
   <a href="mailto:sajandevep@gmail.com"><strong>EMAIL</strong></a> • 
-  <a href="https://github.com/SAJANCODER"><strong>GITHUB</strong></a>
-  <a href="[https://github.com/SAJANCODER](https://drive.google.com/file/d/1_4oorwsadKRCLhmMWFx5ZKK0yEo8SOH3/view?usp=sharing)"><strong>RESUME</strong></a>
+  <a href="https://github.com/SAJANCODER"><strong>GITHUB</strong></a>• 
+  <a href="https://drive.google.com/file/d/1_4oorwsadKRCLhmMWFx5ZKK0yEo8SOH3/view?usp=sharing"><strong>RESUME</strong></a>
 </p>
 
 <p align="center">
