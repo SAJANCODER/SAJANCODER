@@ -56,7 +56,7 @@ Refining human-computer interaction through GNN-based gesture extraction and rea
 <p align="center">
   <a href="https://www.linkedin.com/in/sajand-ai/"><strong>LINKEDIN</strong></a> • 
   <a href="mailto:sajandevep@gmail.com"><strong>EMAIL</strong></a> • 
-  <a href="https://github.com/SAJANCODER"><strong>GITHUB</strong></a>• 
+  <a href="https://github.com/SAJANCODER"><strong>GITHUB</strong></a> • 
   <a href="https://drive.google.com/file/d/1_4oorwsadKRCLhmMWFx5ZKK0yEo8SOH3/view?usp=sharing"><strong>RESUME</strong></a>
 </p>
 
