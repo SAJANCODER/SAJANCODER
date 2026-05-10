@@ -23,6 +23,10 @@
 Deploying an autonomous bridge between Git repositories and real-time intelligence feeds.  
 `Python` `Telegram-API` `Autonomous-Agents`
 
+**Prompt-Architect**
+A systematic framework engineered to generate high-precision, structured prompts that optimize LLM reasoning and ensure agentic consistency.
+`Generative-AI` `Prompt-Engineering` `LLM`
+
 **ISL Recognition | Neural Sign Language Pipeline**  
 Refining human-computer interaction through GNN-based gesture extraction and real-time sign-to-text translation.  
 `TensorFlow` `GNNs` `Computer-Vision`
@@ -42,7 +46,7 @@ Refining human-computer interaction through GNN-based gesture extraction and rea
 
 ### Live Feed (System Activity)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=A9B1D6&center=true&vCenter=true&width=600&height=100&lines=Indian+Sign+Language...;Analyzing+VocalAudit+latency...;Optimizing+PromptGenerator...;QUBREA+Agent+Status:+Online;All+systems+nominal." alt="Scroll Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=A9B1D6&center=true&vCenter=true&width=600&height=100&lines=Indian+Sign+Language;Analyzing+VocalAudit+latency;Optimizing+PromptGenerator;QUBREA+Agent+Status:+Online;All+systems+nominal." alt="Scroll Animation" />
 </p>
 
 <p align="center">
@@ -57,6 +61,7 @@ Refining human-computer interaction through GNN-based gesture extraction and rea
   <a href="https://www.linkedin.com/in/sajand-ai/"><strong>LINKEDIN</strong></a> • 
   <a href="mailto:sajandevep@gmail.com"><strong>EMAIL</strong></a> • 
   <a href="https://github.com/SAJANCODER"><strong>GITHUB</strong></a>
+  <a href="[https://github.com/SAJANCODER](https://drive.google.com/file/d/1_4oorwsadKRCLhmMWFx5ZKK0yEo8SOH3/view?usp=sharing)"><strong>RESUME</strong></a>
 </p>
 
 <p align="center">
