@@ -1,5 +1,5 @@
 # generator/architecture.py
-from ui import SVG, Group, Rect, Text, Element
+from ui import SVG, Group, Rect, Text, Element,Card
 from theme import Theme
 
 def node(x: int, y: int, label: str, icon: str) -> Group:
