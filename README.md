@@ -118,44 +118,11 @@ GNN-based gesture extraction with real-time sign-to-text translation — human-c
 
 </div>
 
-<details>
-<summary><b>📡 Expand: contribution snake (needs a one-time GitHub Action)</b></summary>
-<br/>
+## `> Contribution Snake`
 
-Add <code>.github/workflows/snake.yml</code> below, run it once, then drop the generated SVG URL here — it renders a snake eating your live contribution graph.
-
-```yaml
-name: generate-snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: SAJANCODER
-          outputs: |
-            dist/snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ '{{' }} secrets.GITHUB_TOKEN {{ '}}' }}
-```
-
-```markdown
-<img src="https://raw.githubusercontent.com/SAJANCODER/SAJANCODER/output/snake-dark.svg" />
-```
-
-</details>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SAJANCODER/SAJANCODER/output/snake-dark.svg" alt="snake animation" />
+</p>
 
 <br/>
 
