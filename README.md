@@ -120,6 +120,7 @@ GNN-based gesture extraction with real-time sign-to-text translation — human-c
 
 ## `> Contribution Snake`
 
+<<<<<<< HEAD
 <p align="center">
   <img src="https://raw.githubusercontent.com/SAJANCODER/SAJANCODER/output/snake-dark.svg" alt="snake animation" />
 </p>
