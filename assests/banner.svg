@@ -1,0 +1,42 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0B0D"/>
+      <stop offset="100%" stop-color="#101216"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#15171c" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="220" fill="url(#fade)"/>
+  <rect width="1000" height="220" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="999" height="219" fill="none" stroke="#22252c" stroke-width="1"/>
+
+  <!-- title bar -->
+  <rect x="0" y="0" width="1000" height="38" fill="#0D0E11"/>
+  <line x1="0" y1="38" x2="1000" y2="38" stroke="#22252c" stroke-width="1"/>
+  <circle cx="24" cy="19" r="5" fill="#2A2D34"/>
+  <circle cx="42" cy="19" r="5" fill="#2A2D34"/>
+  <circle cx="60" cy="19" r="5" fill="#2A2D34"/>
+  <text x="500" y="24" font-family="ui-monospace,'JetBrains Mono',monospace" font-size="12" fill="#565B66" text-anchor="middle">~/sajan-d — zsh</text>
+
+  <!-- prompt line -->
+  <text x="40" y="80" font-family="ui-monospace,'JetBrains Mono',monospace" font-size="14" fill="#4FD1D9">visitor@github</text>
+  <text x="166" y="80" font-family="ui-monospace,'JetBrains Mono',monospace" font-size="14" fill="#565B66">:~$ whoami</text>
+
+  <!-- name -->
+  <text x="40" y="135" font-family="ui-monospace,'JetBrains Mono',monospace" font-size="52" font-weight="700" fill="#F2F3F5" letter-spacing="1">SAJAN D</text>
+
+  <!-- role line -->
+  <text x="42" y="165" font-family="ui-monospace,'JetBrains Mono',monospace" font-size="15" fill="#8A8F99">ml engineer  /  researcher  /  founder — virlith</text>
+
+  <!-- status line -->
+  <rect x="40" y="182" width="8" height="8" fill="#4FD1D9"/>
+  <text x="56" y="190" font-family="ui-monospace,'JetBrains Mono',monospace" font-size="12" fill="#565B66">building agentic systems that operate without a human in the loop</text>
+
+  <!-- cursor -->
+  <rect x="756" y="122" width="10" height="24" fill="#4FD1D9">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
