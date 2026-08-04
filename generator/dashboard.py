@@ -10,7 +10,7 @@ def generate_dashboard() -> str:
     
     profile.add(
         Text("SAJAN D", 32, 48, Theme.fonts.size_xxl, Theme.colors.primary_text, weight="700"),
-        Text("Founder, VIRLITH & Independent Researcher", 32, 72, Theme.fonts.size_md, Theme.colors.secondary_text),
+        Text("Founder, VIRLITH &amp; Independent Researcher", 32, 72, Theme.fonts.size_md, Theme.colors.secondary_text),
         Text("SYSTEM DESIGN | AI ARCHITECTURE | CLOUD PLATFORMS", 32, 96, Theme.fonts.size_xs, Theme.colors.accent, is_mono=True)
     )
     

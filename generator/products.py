@@ -29,7 +29,7 @@ def generate_products() -> str:
         }
     ]
     
-    svg.add(Text("PRODUCTS & RESEARCH", 40, 30, Theme.fonts.size_xs, Theme.colors.secondary_text, is_mono=True, weight="600"))
+    svg.add(Text("PRODUCTS &amp; RESEARCH", 40, 30, Theme.fonts.size_xs, Theme.colors.secondary_text, is_mono=True, weight="600"))
     
     for i, prod in enumerate(products_data):
         card = Card(40, 50 + (i * 85), 720, 75)

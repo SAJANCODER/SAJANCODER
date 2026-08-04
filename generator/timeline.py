@@ -9,7 +9,7 @@ def generate_timeline() -> str:
     events = [
         ("2026", "Architecting Scalable Emergency Healthcare Locator on Azure."),
         ("2025", "Founded VIRLITH. Launched QUBREA Git Intelligence Bot."),
-        ("2025", "Initiated active research in Local LLMs & Prompt Engineering."),
+        ("2025", "Initiated active research in Local LLMs &amp; Prompt Engineering."),
         ("2024", "Began Independent Research focusing on Autonomous AI systems.")
     ]
     
