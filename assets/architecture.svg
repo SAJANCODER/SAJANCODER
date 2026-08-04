@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" width="800" height="280" fill="none">
+  <style>
+    
+            @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap');
+            text { font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+            .mono { font-family: 'IBM Plex Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+            .anim-blink { animation: blink 1s step-end infinite; }
+            @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+        
+  </style>
+  <rect width="100%" height="100%" fill="#0D1117" />
+  <text x="40" y="30" font-size="10px" fill="#8B949E" font-weight="600" class="mono">
+    SYSTEM ARCHITECTURE
+  </text>
+  <g transform="translate(40, 50)">
+    <rect x="0" y="0" width="720" height="210" fill="#161B22" rx="8" stroke="#30363D" stroke-width="1" />
+    <path d="M 160 65 C 200 65, 250 65, 290 65" stroke="#30363D" stroke-width="2" fill="none" />
+    <path d="M 160 65 C 200 65, 250 145, 290 145" stroke="#30363D" stroke-width="2" fill="none" />
+    <path d="M 430 65 C 470 65, 500 105, 540 105" stroke="#30363D" stroke-width="2" fill="none" />
+    <path d="M 430 145 C 470 145, 500 105, 540 105" stroke="#30363D" stroke-width="2" fill="none" />
+    <g transform="translate(20, 40)">
+      <rect x="0" y="0" width="140" height="50" fill="#21262D" rx="6" stroke="#30363D" stroke-width="1" />
+      <text x="16" y="30" font-size="16px" fill="#F0F6FC" font-weight="400">
+        🖥️
+      </text>
+      <text x="40" y="29" font-size="12px" fill="#F0F6FC" font-weight="500" class="mono">
+        CLIENT
+      </text>
+    </g>
+    <g transform="translate(290, 40)">
+      <rect x="0" y="0" width="140" height="50" fill="#21262D" rx="6" stroke="#30363D" stroke-width="1" />
+      <text x="16" y="30" font-size="16px" fill="#F0F6FC" font-weight="400">
+        ☁️
+      </text>
+      <text x="40" y="29" font-size="12px" fill="#F0F6FC" font-weight="500" class="mono">
+        AZURE CLOUD
+      </text>
+    </g>
+    <g transform="translate(290, 120)">
+      <rect x="0" y="0" width="140" height="50" fill="#21262D" rx="6" stroke="#30363D" stroke-width="1" />
+      <text x="16" y="30" font-size="16px" fill="#F0F6FC" font-weight="400">
+        🧠
+      </text>
+      <text x="40" y="29" font-size="12px" fill="#F0F6FC" font-weight="500" class="mono">
+        AI ENGINE
+      </text>
+    </g>
+    <g transform="translate(540, 80)">
+      <rect x="0" y="0" width="140" height="50" fill="#21262D" rx="6" stroke="#30363D" stroke-width="1" />
+      <text x="16" y="30" font-size="16px" fill="#F0F6FC" font-weight="400">
+        🗄️
+      </text>
+      <text x="40" y="29" font-size="12px" fill="#F0F6FC" font-weight="500" class="mono">
+        DATA LAKE
+      </text>
+    </g>
+  </g>
+</svg>
