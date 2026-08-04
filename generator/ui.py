@@ -56,12 +56,12 @@ class SVG(Element):
             fill="none"
         )
         self.add(Element("style").text(f"""
-            @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap');
-            text {{ font-family: {Theme.fonts.primary}; }}
-            .mono {{ font-family: {Theme.fonts.secondary}; }}
-            .anim-blink {{ animation: blink 1s step-end infinite; }}
-            @keyframes blink {{ 0%, 100% {{ opacity: 1; }} 50% {{ opacity: 0; }} }}
-        """))
+                @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;display=swap');
+                text {{ font-family: {Theme.fonts.primary}; }}
+                .mono {{ font-family: {Theme.fonts.secondary}; }}
+                .anim-blink {{ animation: blink 1s step-end infinite; }}
+                @keyframes blink {{ 0%, 100% {{ opacity: 1; }} 50% {{ opacity: 0; }} }}
+            """))
         self.add(Element("rect", width="100%", height="100%", fill=Theme.colors.background))
 
 class Group(Element):
