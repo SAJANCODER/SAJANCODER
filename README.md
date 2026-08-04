@@ -1,60 +1,316 @@
+<!-- ========================================================= -->
+<!--                     VIRLITH OS v4                         -->
+<!--        Designed & Engineered by SAJAN D                  -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Sajan D" />
+<p align="center">
 
-<br/><br/>
+<img
+src="./assets/boot.svg"
+width="100%"/>
 
-<a href="https://www.linkedin.com/in/sajand-ai/">linkedin</a> ·
-<a href="mailto:sajandevep@gmail.com">email</a> ·
-<a href="https://github.com/SAJANCODER">github</a> ·
-<a href="https://drive.google.com/file/d/1_4oorwsadKRCLhmMWFx5ZKK0yEo8SOH3/view?usp=sharing">resume</a>
+</p>
+
+# SAJAN D
+
+### Building intelligent systems that solve problems beyond conventional software.
+
+<p>
+
+Founder of <b>VIRLITH</b> • Machine Learning Engineer • Researcher • Product Builder
+
+</p>
+
+<br>
+
+<a href="https://www.linkedin.com/in/sajand-ai/">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sajandevep@gmail.com">
+<img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SAJANCODER">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge"/>
+</a>
 
 </div>
 
-<br/>
+---
 
+# SYSTEM STATUS
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Runtime
+
+```text
+Status          : ONLINE
+
+Role            : Founder & ML Engineer
+
+Organization    : VIRLITH
+
+Current Focus   : AI Infrastructure
+
+Research State  : ACTIVE
+
+Location        : India
+
+Availability    : Open to Innovation
 ```
-belief   → the future isn't a destination we wait for. it's a system we architect.
-focus    → high-integrity agentic workflows, bridging static code and autonomous intelligence
-currently→ closing the gap between deterministic systems and probabilistic ones, one agent at a time
+
+</td>
+
+<td width="50%">
+
+### Current Mission
+
+```text
+Building production-grade AI systems
+focused on
+
+• Autonomous Agents
+
+• AI Infrastructure
+
+• Indian Sign Language AI
+
+• Git Intelligence
+
+• Applied Machine Learning
 ```
 
-<br/>
+</td>
 
-### now building
+</tr>
 
-| | |
-|---|---|
-| **QUBREA** — git intelligence agent | autonomous bridge between repository events and real-time intelligence feeds. repo activity becomes live signal. `python` `telegram-api` `autonomous-agents` |
-| **prompt-architect** — reasoning framework | systematic generation of high-precision structured prompts for consistent, optimized LLM reasoning. `generative-ai` `prompt-engineering` `llm` |
-| **isl recognition** — sign language pipeline | GNN-based gesture extraction with real-time sign-to-text translation. `tensorflow` `gnns` `computer-vision` |
+</table>
 
-<br/>
+---
 
-### stack
+# ENGINEERING PHILOSOPHY
 
+> **Good software automates tasks.**
+>
+> **Great software creates systems that continue delivering value without constant human intervention.**
+>
+> I build products with this principle at the center—designing intelligent systems that are reliable, scalable, and built for real-world impact.
+
+---
+
+# PRODUCT ECOSYSTEM
+
+<table>
+
+<tr>
+
+<td width="33%">
+
+## QUBREA
+
+AI Git Intelligence Platform
+
+Status
+
+```text
+ACTIVE
 ```
-languages       python · java
-ml / research   pytorch · tensorflow · gnns · scikit-learn
-infra           nvidia cuda · azure · google cloud · docker
-interface       react · fastapi · figma
+
+Transforms repositories into actionable engineering intelligence through AI.
+
+</td>
+
+<td width="33%">
+
+## Prompt Architect
+
+Structured Prompt Engineering Framework
+
+Status
+
+```text
+ACTIVE
 ```
 
-<br/>
+A framework for building deterministic and reusable prompting systems for LLM applications.
 
-### activity
+</td>
+
+<td width="33%">
+
+## ISL AI
+
+Indian Sign Language Recognition
+
+Status
+
+```text
+RESEARCH
+```
+
+Graph Neural Network–based gesture recognition focused on accessibility through real-time AI.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# TECHNOLOGY ARCHITECTURE
+
+| Layer | Technologies |
+|-------|--------------|
+| AI & ML | Python • PyTorch • TensorFlow • Scikit-learn • OpenCV |
+| Intelligence | LLMs • Prompt Engineering • Graph Neural Networks |
+| Backend | FastAPI • Flask • REST APIs |
+| Frontend | React • TypeScript |
+| Cloud | Azure • Docker • PostgreSQL |
+| Design | Figma • UI Systems |
+
+---
+
+# CURRENT OBJECTIVES
+
+```text
+[███████████████░░░░░] QUBREA Platform
+
+[████████████░░░░░░░] Prompt Architect
+
+[█████████████████░░] Indian Sign Language AI
+
+[█████████░░░░░░░░░░] Autonomous AI Runtime
+```
+
+---
+
+# RESEARCH ROADMAP
+
+```text
+2024
+
+Optical Character Recognition
+
+        │
+
+        ▼
+
+2025
+
+Computer Vision
+
+        │
+
+        ▼
+
+Indian Sign Language AI
+
+        │
+
+        ▼
+
+2026
+
+Git Intelligence
+
+        │
+
+        ▼
+
+Autonomous AI Systems
+```
+
+---
+
+# LIVE ENGINEERING METRICS
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SAJANCODER&show_icons=true&hide_border=true&bg_color=0A0B0D&title_color=F2F3F5&icon_color=4FD1D9&text_color=8A8F99&border_color=22252c&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAJANCODER&layout=compact&hide_border=true&bg_color=0A0B0D&title_color=F2F3F5&text_color=8A8F99&border_color=22252c" width="34%" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SAJANCODER&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=2F81F7"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=SAJANCODER&hide_border=true&background=0D1117&ring=2F81F7&currStreakLabel=F0F6FC"/>
+
 </div>
+
+---
+
+# CURRENT ACTIVITY
+
+```text
+✓ Developing AI products
+
+✓ Researching autonomous systems
+
+✓ Optimizing ML pipelines
+
+✓ Building production software
+
+✓ Exploring scalable intelligence
+```
+
+---
+
+# TERMINAL
+
+```bash
+visitor@sajan:~$ whoami
+
+SAJAN D
+
+Founder @ VIRLITH
+
+Machine Learning Engineer
+
+Researcher
+
+Problem Solver
+
+------------------------------
+
+visitor@sajan:~$ vision
+
+Build technology that creates
+long-term value for people rather
+than temporary demonstrations.
+
+------------------------------
+
+visitor@sajan:~$ exit
+
+Session terminated.
+```
+
+---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/SAJANCODER/SAJANCODER/output/snake-dark.svg" alt="contribution graph" width="90%" />
+
+### "Build systems. Not features."
+
+<br>
+
+Made with curiosity.
+
+Engineered with precision.
+
 </div>
 
-<br/>
+<!--
+If you're reading the source...
 
-<div align="center">
-<sub>sajan d · virlith systems</sub>
-</div>
+You're probably the kind of engineer
+I'd enjoy building with.
+
+-->
