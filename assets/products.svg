@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="800" height="320" fill="none">
+  <style>
+    
+            @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap');
+            text { font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+            .mono { font-family: 'IBM Plex Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+            .anim-blink { animation: blink 1s step-end infinite; }
+            @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+        
+  </style>
+  <rect width="100%" height="100%" fill="#0D1117" />
+  <text x="40" y="30" font-size="10px" fill="#8B949E" font-weight="600" class="mono">
+    PRODUCTS & RESEARCH
+  </text>
+  <g transform="translate(40, 50)">
+    <rect x="0" y="0" width="720" height="75" fill="#161B22" rx="8" stroke="#30363D" stroke-width="1" />
+    <text x="24" y="30" font-size="16px" fill="#F0F6FC" font-weight="700">
+      QUBREA
+    </text>
+    <text x="200" y="30" font-size="12px" fill="#8B949E" font-weight="400">
+      Git intelligence bot delivering code repository summaries autonomously to Telegram.
+    </text>
+    <g transform="translate(24, 50)">
+      <rect x="0" y="0" width="150" height="4" fill="#30363D" rx="2" />
+      <rect x="0" y="0" width="150" height="4" fill="#238636" rx="2" />
+    </g>
+    <text x="185" y="54" font-size="9px" fill="#238636" font-weight="400" class="mono">
+      LIVE
+    </text>
+  </g>
+  <g transform="translate(40, 135)">
+    <rect x="0" y="0" width="720" height="75" fill="#161B22" rx="8" stroke="#30363D" stroke-width="1" />
+    <text x="24" y="30" font-size="16px" fill="#F0F6FC" font-weight="700">
+      CARBON-TWIN
+    </text>
+    <text x="200" y="30" font-size="12px" fill="#8B949E" font-weight="400">
+      AI-driven manufacturing optimization platform modeling industrial processes.
+    </text>
+    <g transform="translate(24, 50)">
+      <rect x="0" y="0" width="150" height="4" fill="#30363D" rx="2" />
+      <rect x="0" y="0" width="127" height="4" fill="#2F81F7" rx="2" />
+    </g>
+    <text x="185" y="54" font-size="9px" fill="#2F81F7" font-weight="400" class="mono">
+      IN DEVELOPMENT
+    </text>
+  </g>
+  <g transform="translate(40, 220)">
+    <rect x="0" y="0" width="720" height="75" fill="#161B22" rx="8" stroke="#30363D" stroke-width="1" />
+    <text x="24" y="30" font-size="16px" fill="#F0F6FC" font-weight="700">
+      HEALTH-LOCATOR
+    </text>
+    <text x="200" y="30" font-size="12px" fill="#8B949E" font-weight="400">
+      Scalable emergency healthcare resource locator utilizing Azure Cloud Services.
+    </text>
+    <g transform="translate(24, 50)">
+      <rect x="0" y="0" width="150" height="4" fill="#30363D" rx="2" />
+      <rect x="0" y="0" width="142" height="4" fill="#2F81F7" rx="2" />
+    </g>
+    <text x="185" y="54" font-size="9px" fill="#2F81F7" font-weight="400" class="mono">
+      DEPLOYED
+    </text>
+  </g>
+</svg>

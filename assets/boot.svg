@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" fill="none">
+  <style>
+    
+            @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap');
+            text { font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+            .mono { font-family: 'IBM Plex Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+            .anim-blink { animation: blink 1s step-end infinite; }
+            @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+        
+  </style>
+  <rect width="100%" height="100%" fill="#0D1117" />
+  <g transform="translate(40, 40)">
+    <text x="0" y="0" font-size="12px" fill="#238636" font-weight="400" class="mono">
+      [ OK ] BOOTING VIRLITH OS KERNEL v2.0.26...
+    </text>
+    <text x="0" y="24" font-size="12px" fill="#238636" font-weight="400" class="mono">
+      [ OK ] MOUNTING RESEARCH VOLUMES...
+    </text>
+    <text x="0" y="48" font-size="12px" fill="#238636" font-weight="400" class="mono">
+      [ OK ] INITIALIZING AUTONOMOUS AI EXECUTION ENGINES...
+    </text>
+    <text x="0" y="72" font-size="12px" fill="#238636" font-weight="400" class="mono">
+      [ OK ] LOADING AZURE CLOUD ARCHITECTURE...
+    </text>
+    <text x="0" y="96" font-size="12px" fill="#238636" font-weight="400" class="mono">
+      [ OK ] VERIFYING SYSTEM INTEGRITY... 100%
+    </text>
+    <text x="0" y="120" font-size="12px" fill="#F0F6FC" font-weight="400" class="mono">
+      sysadmin@virlith:~$ whoami
+    </text>
+    <rect x="200" y="110" width="8" height="14" fill="#F0F6FC" rx="0" class="anim-blink" />
+  </g>
+</svg>
