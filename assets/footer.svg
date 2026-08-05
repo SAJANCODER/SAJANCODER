@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 80" width="800" height="80" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="800" height="320" fill="none">
   <style>
     
                 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;display=swap');
@@ -9,8 +9,63 @@
             
   </style>
   <rect width="100%" height="100%" fill="#0D1117" />
-  <line x1="40" y1="10" x2="760" y2="10" stroke="#30363D" stroke-width="1" />
-  <text x="400" y="45" font-size="10px" fill="#8B949E" font-weight="400" text-anchor="middle" class="mono">
-    VIRLITH OS // ENGINEERED BY SAJAN D
+  <text x="40" y="30" font-size="10px" fill="#8B949E" font-weight="600" class="mono">
+    SYSTEM ENDPOINTS // COLLABORATION PROTOCOLS
+  </text>
+  <g transform="translate(40, 60)">
+    <rect x="0" y="0" width="340" height="75" fill="#21262D" rx="6" stroke="#30363D" stroke-width="1" />
+    <circle cx="20" cy="24" r="4" fill="#238636" class="anim-blink" />
+    <text x="32" y="28" font-size="10px" fill="#238636" font-weight="600" class="mono">
+      PORT: OPEN
+    </text>
+    <text x="20" y="50" font-size="14px" fill="#F0F6FC" font-weight="700" class="mono">
+      TCP/LINKEDIN_GATEWAY
+    </text>
+    <text x="20" y="65" font-size="11px" fill="#8B949E" font-weight="400">
+      Establish connection &amp; follow network updates.
+    </text>
+  </g>
+  <g transform="translate(420, 60)">
+    <rect x="0" y="0" width="340" height="75" fill="#21262D" rx="6" stroke="#30363D" stroke-width="1" />
+    <circle cx="20" cy="24" r="4" fill="#238636" class="anim-blink" />
+    <text x="32" y="28" font-size="10px" fill="#238636" font-weight="600" class="mono">
+      AWAITING PAYLOAD
+    </text>
+    <text x="20" y="50" font-size="14px" fill="#F0F6FC" font-weight="700" class="mono">
+      SMTP/COLLABORATION
+    </text>
+    <text x="20" y="65" font-size="11px" fill="#8B949E" font-weight="400">
+      Ping for architectural discussions &amp; partnerships.
+    </text>
+  </g>
+  <g transform="translate(40, 155)">
+    <rect x="0" y="0" width="340" height="75" fill="#21262D" rx="6" stroke="#30363D" stroke-width="1" />
+    <circle cx="20" cy="24" r="4" fill="#238636" class="anim-blink" />
+    <text x="32" y="28" font-size="10px" fill="#238636" font-weight="600" class="mono">
+      ACTIVE THREAD
+    </text>
+    <text x="20" y="50" font-size="14px" fill="#F0F6FC" font-weight="700" class="mono">
+      GIT/HUB_REPOSITORY
+    </text>
+    <text x="20" y="65" font-size="11px" fill="#8B949E" font-weight="400">
+      Review source code &amp; execution engines.
+    </text>
+  </g>
+  <g transform="translate(420, 155)">
+    <rect x="0" y="0" width="340" height="75" fill="#21262D" rx="6" stroke="#30363D" stroke-width="1" />
+    <circle cx="20" cy="24" r="4" fill="#238636" class="anim-blink" />
+    <text x="32" y="28" font-size="10px" fill="#238636" font-weight="600" class="mono">
+      READY
+    </text>
+    <text x="20" y="50" font-size="14px" fill="#F0F6FC" font-weight="700" class="mono">
+      HTTP/DOC_DECRYPTION
+    </text>
+    <text x="20" y="65" font-size="11px" fill="#8B949E" font-weight="400">
+      Download encrypted resume &amp; career specs.
+    </text>
+  </g>
+  <line x1="40" y1="260" x2="760" y2="260" stroke="#30363D" stroke-width="1" />
+  <text x="400" y="290" font-size="11px" fill="#8B949E" font-weight="400" text-anchor="middle" class="mono">
+    © 2026 SAJAN D // VIRLITH SYSTEMS
   </text>
 </svg>
