@@ -14,19 +14,33 @@ def generate_products() -> str:
             "status": "LIVE"
         },
         {
+                    "name": "INDIAN SIGN LANGUAGE",
+                    "desc": "Refining human-computer interaction through GNN-based gesture extraction and real-time sign-to-text translation.",
+                    "tech": ["TensorFlow", "Mediapipe", "GNN", "Computer-Vision"],
+                    "progress": 0.95,
+                    "status": "IN DEVELOPMENT"
+        },
+        {
+                            "name": "Prompt-Architect",
+                            "desc": "A systematic framework engineered to generate high-precision, structured prompts that optimize LLM reasoning and ensure agentic consistency.",
+                            "tech": ["Generative-AI", "Prompt-Engineering", "LLM", "NLTK"],
+                            "progress": 0.97,
+                            "status": "DEVELOPED"
+        },
+        {
             "name": "CARBON-TWIN",
             "desc": "AI-driven manufacturing optimization platform modeling industrial processes.",
             "tech": ["System Design", "GenAI", "Azure"],
             "progress": 0.85,
-            "status": "IN DEVELOPMENT"
-        },
-        {
-            "name": "HEALTH-LOCATOR",
-            "desc": "Scalable emergency healthcare resource locator utilizing Azure Cloud Services.",
-            "tech": ["Azure", "Microservices", "API"],
-            "progress": 0.95,
-            "status": "DEPLOYED"
-        }
+            "status": "DEVELOPMENT"
+        },{
+                    "name": "PERSONALIZED AI FOR ALL",
+                    "desc": "A Privacy first AI model , which can be customized by users and user data handled approach.",
+                    "tech": ["Local LLM"],
+                    "progress": 0.10,
+                    "status": "IN DEVELOPMENT"
+                }
+        
     ]
     
     svg.add(Text("PRODUCTS &amp; RESEARCH", 40, 30, Theme.fonts.size_xs, Theme.colors.secondary_text, is_mono=True, weight="600"))
