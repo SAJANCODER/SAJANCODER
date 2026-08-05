@@ -31,6 +31,38 @@
   <g transform="translate(40, 135)">
     <rect x="0" y="0" width="720" height="75" fill="#161B22" rx="8" stroke="#30363D" stroke-width="1" />
     <text x="24" y="30" font-size="16px" fill="#F0F6FC" font-weight="700">
+      INDIAN SIGN LANGUAGE
+    </text>
+    <text x="200" y="30" font-size="12px" fill="#8B949E" font-weight="400">
+      Refining human-computer interaction through GNN-based gesture extraction and real-time sign-to-text translation.
+    </text>
+    <g transform="translate(24, 50)">
+      <rect x="0" y="0" width="150" height="4" fill="#30363D" rx="2" />
+      <rect x="0" y="0" width="142" height="4" fill="#2F81F7" rx="2" />
+    </g>
+    <text x="185" y="54" font-size="9px" fill="#2F81F7" font-weight="400" class="mono">
+      IN DEVELOPMENT
+    </text>
+  </g>
+  <g transform="translate(40, 220)">
+    <rect x="0" y="0" width="720" height="75" fill="#161B22" rx="8" stroke="#30363D" stroke-width="1" />
+    <text x="24" y="30" font-size="16px" fill="#F0F6FC" font-weight="700">
+      Prompt-Architect
+    </text>
+    <text x="200" y="30" font-size="12px" fill="#8B949E" font-weight="400">
+      A systematic framework engineered to generate high-precision, structured prompts that optimize LLM reasoning and ensure agentic consistency.
+    </text>
+    <g transform="translate(24, 50)">
+      <rect x="0" y="0" width="150" height="4" fill="#30363D" rx="2" />
+      <rect x="0" y="0" width="145" height="4" fill="#2F81F7" rx="2" />
+    </g>
+    <text x="185" y="54" font-size="9px" fill="#2F81F7" font-weight="400" class="mono">
+      DEVELOPED
+    </text>
+  </g>
+  <g transform="translate(40, 305)">
+    <rect x="0" y="0" width="720" height="75" fill="#161B22" rx="8" stroke="#30363D" stroke-width="1" />
+    <text x="24" y="30" font-size="16px" fill="#F0F6FC" font-weight="700">
       CARBON-TWIN
     </text>
     <text x="200" y="30" font-size="12px" fill="#8B949E" font-weight="400">
@@ -41,23 +73,23 @@
       <rect x="0" y="0" width="127" height="4" fill="#2F81F7" rx="2" />
     </g>
     <text x="185" y="54" font-size="9px" fill="#2F81F7" font-weight="400" class="mono">
-      IN DEVELOPMENT
+      DEVELOPMENT
     </text>
   </g>
-  <g transform="translate(40, 220)">
+  <g transform="translate(40, 390)">
     <rect x="0" y="0" width="720" height="75" fill="#161B22" rx="8" stroke="#30363D" stroke-width="1" />
     <text x="24" y="30" font-size="16px" fill="#F0F6FC" font-weight="700">
-      HEALTH-LOCATOR
+      PERSONALIZED AI FOR ALL
     </text>
     <text x="200" y="30" font-size="12px" fill="#8B949E" font-weight="400">
-      Scalable emergency healthcare resource locator utilizing Azure Cloud Services.
+      A Privacy first AI model , which can be customized by users and user data handled approach.
     </text>
     <g transform="translate(24, 50)">
       <rect x="0" y="0" width="150" height="4" fill="#30363D" rx="2" />
-      <rect x="0" y="0" width="142" height="4" fill="#2F81F7" rx="2" />
+      <rect x="0" y="0" width="15" height="4" fill="#2F81F7" rx="2" />
     </g>
     <text x="185" y="54" font-size="9px" fill="#2F81F7" font-weight="400" class="mono">
-      DEPLOYED
+      IN DEVELOPMENT
     </text>
   </g>
 </svg>
